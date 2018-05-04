@@ -9,3 +9,5 @@ puts row1
 puts row2
 puts row1
 end
+
+display_board
